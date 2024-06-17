@@ -2,6 +2,10 @@
     <img src="https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/born2bebanner.gif" alt="Banner de perfil"/>
 </h1>
 
+El tercer proyecto en 42 consiste en crear tu propia máquina virtual.
+
+[Click aquí](https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/Born2beroot.pdf) para ver el `PDF` del proyecto.
+
 # Tutorial Born2beroot
 
 # Índice
